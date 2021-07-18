@@ -1,0 +1,18 @@
+.container {
+    background: white;
+    font-size: 24px;
+    padding: 25px;
+}
+.parallax {
+    background: url("./WhatsApp\ Image\ 2021-07-17\ at\ 8.24.43\ PM.jpeg") no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 817px;
+width: 1285px;
+}
+#header {
+    position: absolute;
+    z-index: 1000;
+    top: 250px;
+    left: 200px;
+  }
